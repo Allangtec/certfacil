@@ -1,0 +1,107 @@
+{
+  "seo": {
+    "title": "CertFácil | Certificado Digital e-CPF e e-CNPJ ICP-Brasil",
+    "description": "Emita ou renove seu certificado digital e-CPF ou e-CNPJ com a CertFácil. Validação por videoconferência, suporte humano do início ao fim e atendimento para casos que outros emissores recusam."
+  },
+  "contato": {
+    "whatsappNumero": "556192854550",
+    "whatsappMensagem": "Olá! Gostaria de emitir/renovar meu certificado digital.",
+    "instagramUrl": "https://instagram.com/certfacil.br"
+  },
+  "marca": {
+    "nomeExibicao": "CertFácil",
+    "subtituloHeader": "Certificado Digital · ICP-Brasil",
+    "subtituloFooter": "Certificado Digital · ICP-Brasil"
+  },
+  "hero": {
+    "tag": "Certificado Digital · e-CPF e e-CNPJ · ICP-Brasil",
+    "tituloHtml": "Seu certificado digital pronto de forma <em>rápida, segura</em> e sem burocracia.",
+    "texto": "Emita ou renove seu e-CPF ou e-CNPJ sem sair de casa, com validação por videoconferência e suporte humano do início ao fim. Simples como o nome diz.",
+    "indicadores": [
+      { "icon": "laptop", "texto": "Emissão por videoconferência" },
+      { "icon": "shield-check", "texto": "Validade jurídica ICP-Brasil" },
+      { "icon": "users", "texto": "Suporte na instalação incluído" },
+      { "icon": "userx", "texto": "Emitimos até sem CNH" }
+    ]
+  },
+  "sobre": {
+    "eyebrow": "Sobre a CertFácil",
+    "titulo": "Sua identidade digital em boas mãos.",
+    "paragrafos": [
+      "A <strong>CertFácil</strong> é ponto de emissão credenciado junto à Autoridade de Registro <strong>AR ALVO</strong>, parceira da Autoridade Certificadora <strong>SERPRO</strong>, especializada em emissão e renovação de certificados digitais para pessoas físicas e empresas.",
+      "Nascemos para tirar a complicação do processo: nada de filas, burocracia ou termos difíceis. Você fala com a gente, faz a validação de forma rápida e recebe seu certificado pronto para usar, com todo o suporte de que precisar.",
+      "Já ajudamos centenas de clientes de contadores e empresários a autônomos a assinar documentos, emitir notas fiscais e acessar sistemas do governo com segurança e tranquilidade."
+    ],
+    "credenciamento": "Ponto de emissão credenciado <b>AR ALVO</b> · Autoridade Certificadora <b>SERPRO</b>"
+  },
+  "certificadosEyebrow": "O que oferecemos",
+  "certificadosTitulo": "Certificados para cada necessidade",
+  "certificadosDescricao": "Emissão e renovação com validade jurídica em todo o Brasil.",
+  "certificados": [
+    { "icon": "user", "t": "e-CPF (Pessoa Física)", "d": "Ideal para quem precisa assinar documentos, acessar o gov.br, declarar imposto de renda e usar serviços online com segurança." },
+    { "icon": "building", "t": "e-CNPJ (Pessoa Jurídica)", "d": "Essencial para empresas emitirem notas fiscais, assinarem contratos e cumprirem obrigações fiscais e trabalhistas." },
+    { "icon": "cloud", "t": "Certificado em Nuvem", "d": "Use seu certificado direto no celular ou computador, sem precisar de token ou cartão. Praticidade total." },
+    { "icon": "creditcard", "t": "Modelo A3 (Token ou Cartão)", "d": "Mais segurança para quem prefere o certificado guardado em um dispositivo físico, com validade maior e proteção extra contra cópias." },
+    { "icon": "refresh", "t": "Renovação", "d": "Seu certificado está vencendo? Renove de forma rápida, muitas vezes sem precisar reapresentar documentos." }
+  ],
+  "vantagensEyebrow": "Vantagens",
+  "vantagensTitulo": "Praticidade do início ao fim",
+  "vantagens": [
+    { "icon": "laptop", "t": "Emissão por videoconferência", "d": "Faça toda a validação de onde estiver, pelo celular ou computador, sem deslocamento." },
+    { "icon": "users", "t": "Atendimento humano e rápido", "d": "Nada de robô. Você fala com uma pessoa de verdade, que te acompanha em cada etapa." },
+    { "icon": "shield-check", "t": "Segurança e validade jurídica", "d": "Todos os certificados seguem o padrão ICP-Brasil, com total validade legal em documentos e sistemas oficiais." },
+    { "icon": "clock", "t": "Suporte na instalação", "d": "Ajudamos você a instalar e configurar o certificado no seu dispositivo, sem dor de cabeça." }
+  ],
+  "diferencial": {
+    "eyebrow": "Nosso diferencial",
+    "titulo": "Emitimos onde muitos dizem \"não\".",
+    "descricao": "Atendemos situações que a maioria dos emissores recusa de forma online, segura e dentro das regras.",
+    "itens": [
+      { "icon": "userx", "t": "Para quem não tem CNH", "d": "Você não precisa de carteira de motorista para ter seu certificado. Validamos sua identidade com outros documentos oficiais, tudo online, sem exigir atendimento presencial." },
+      { "icon": "filex", "t": "Para CNH vencida", "d": "CNH vencida não trava o seu processo aqui. Conseguimos emitir mesmo nessa situação, com validação segura algo que boa parte dos emissores simplesmente recusa." },
+      { "icon": "alert", "t": "Para empresas inaptas", "d": "CNPJ inapto ou com pendências na Receita? Ajudamos a emitir o e-CNPJ mesmo assim, para que você consiga colocar as obrigações em dia e regularizar a sua empresa." }
+    ],
+    "fechamento": "Se disseram que o seu caso \"não dá\", fale com a CertFácil.",
+    "botaoTexto": "Quero resolver o meu caso"
+  },
+  "passosEyebrow": "Como Funciona",
+  "passosTitulo": "Seu certificado em três passos simples",
+  "passos": [
+    { "n": "01", "icon": "message", "t": "Escolha e fale com a gente", "d": "Você entra em contato pelo WhatsApp e informa qual certificado deseja emitir pessoa física (e-CPF) ou jurídica (e-CNPJ) e o modelo desejado (A1, A3 ou nuvem)." },
+    { "n": "02", "icon": "calendar", "t": "Faça a validação", "d": "Agende a validação por videoconferência e apresente seus documentos de forma rápida e segura." },
+    { "n": "03", "icon": "shield-check", "t": "Certificado pronto para usar", "d": "Após a aprovação, seu certificado é emitido na hora e você já pode começar a usar, com nosso suporte para instalar." }
+  ],
+  "passosBotaoTexto": "Quero emitir meu certificado",
+  "depoimentosEyebrow": "Depoimentos",
+  "depoimentosTitulo": "Quem já emitiu com a CertFácil",
+  "depoimentos": [
+    { "n": "R. S.", "role": "Empresário(a)", "t": "Processo muito mais simples do que eu esperava. Emiti meu e-CNPJ por videochamada em poucos minutos." },
+    { "n": "M. A.", "role": "Contador(a)", "t": "Atendimento rápido e me ajudaram até na instalação. Recomendo demais." },
+    { "n": "T. F.", "role": "Empresário(a)", "t": "Precisava renovar às pressas e resolveram tudo no mesmo dia. Salvou meu prazo." }
+  ],
+  "faqEyebrow": "Perguntas Frequentes",
+  "faqTitulo": "Tire suas dúvidas",
+  "faqs": [
+    { "q": "O que é um certificado digital?", "a": "É um documento eletrônico que funciona como uma identidade virtual, permitindo assinar documentos, emitir notas fiscais e acessar sistemas do governo com validade jurídica e segurança." },
+    { "q": "Qual a diferença entre e-CPF e e-CNPJ?", "a": "O e-CPF representa a pessoa física e o e-CNPJ representa a empresa. A escolha depende de quem vai usar e para qual finalidade." },
+    { "q": "Consigo emitir mesmo sem CNH ou com CNH vencida?", "a": "Sim. Trabalhamos com validação por outros documentos oficiais e conseguimos atender casos de CNH vencida situações em que muitos emissores recusam. Fale com a gente que verificamos o seu caso." },
+    { "q": "Emitem certificado para empresa inapta?", "a": "Sim. Mesmo com o CNPJ inapto ou com pendências na Receita, ajudamos a emitir o e-CNPJ para você regularizar a empresa." },
+    { "q": "Preciso ir até um local presencialmente?", "a": "Na maioria dos casos, não. A emissão pode ser feita por videoconferência, de onde você estiver." },
+    { "q": "Qual a diferença entre A1 e A3?", "a": "O A1 é um arquivo instalado no computador ou celular, com validade de 1 ano. O A3 fica em um token, cartão ou na nuvem e tem validade maior, geralmente de 1 a 3 anos conforme o plano. A gente te ajuda a escolher o ideal." },
+    { "q": "Quanto tempo leva para emitir?", "a": "Após a validação e aprovação dos documentos, o certificado costuma ser emitido no mesmo dia, na hora." },
+    { "q": "Como funciona a renovação?", "a": "Se o seu certificado ainda está válido, a renovação costuma ser mais rápida e, em muitos casos, sem precisar reapresentar documentos. Fale com a gente antes de vencer." },
+    { "q": "Quais as formas de pagamento?", "a": "Aceitamos Pix e cartão de crédito (com taxa conforme o parcelamento). Qualquer dúvida sobre valores é só chamar no WhatsApp." }
+  ],
+  "ctaFinal": {
+    "tag": "Simples assim",
+    "titulo": "Emita seu certificado digital hoje mesmo.",
+    "texto": "Sem filas, sem burocracia e com todo o suporte que você precisa. Fale com a CertFácil e resolva em poucos minutos.",
+    "botaoTexto": "Falar com a CertFácil no WhatsApp"
+  },
+  "footer": {
+    "credenciamento": "Ponto de emissão credenciado à AR ALVO · Autoridade Certificadora SERPRO",
+    "cnpj": "61.856.826/0001-41",
+    "institucional": ["Política de Privacidade", "Termos de Uso"],
+    "desenvolvidoPor": { "texto": "Desenvolvido por GTI Soluções em Informática", "url": "https://wa.me/5561999118365" }
+  }
+}
